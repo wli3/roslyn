@@ -109,6 +109,7 @@
     <PackageReference Include="Microsoft.VisualStudio.ComponentModelHost">
       <Version>$(MicrosoftVisualStudioComponentModelHostFixedVersion)</Version>
     </PackageReference>
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HelperExtensionMethods.cs" />

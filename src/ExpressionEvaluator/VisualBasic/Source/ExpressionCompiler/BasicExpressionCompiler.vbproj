@@ -46,6 +46,7 @@
       <Version>$(MicrosoftVisualStudioDebuggerMetadataVersion)</Version>
       <ExcludeAssets>compile</ExcludeAssets>
     </PackageReference>
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
   </ItemGroup>
   <Import Project="..\..\..\..\..\build\Targets\Vsdconfig.targets" />
   <Import Project="..\..\..\..\..\build\Targets\Imports.targets" />

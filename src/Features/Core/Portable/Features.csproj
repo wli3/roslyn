@@ -108,6 +108,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Reflection" Version="$(SystemReflectionVersion)" />
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
   </ItemGroup>
   <Import Project="..\..\..\Compilers\Core\AnalyzerDriver\AnalyzerDriver.projitems" Label="Shared" />
   <Import Project="..\..\..\..\build\Targets\Imports.targets" />

@@ -56,6 +56,7 @@
     <Reference Include="System" />
     <Reference Include="WindowsBase" />
     <PackageReference Include="System.Composition" Version="$(SystemCompositionVersion)" />
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Update="Properties\Resources.resx">

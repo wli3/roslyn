@@ -64,6 +64,9 @@
     <Import Include="System.Threading.Tasks" />
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
+  </ItemGroup>
 
   <ItemGroup>
     <Compile Include="Module1.vb" />

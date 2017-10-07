@@ -88,4 +88,7 @@
   </ItemGroup>
   <Import Project="..\CommandLine\CommandLine.projitems" Label="Shared" />
   <Import Project="..\..\..\..\build\Targets\Imports.targets" />
+  <ItemGroup>
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
+  </ItemGroup>
 </Project>

@@ -36,6 +36,9 @@
     <ProjectReference Include="..\..\..\..\..\..\src\Workspaces\VisualBasic\Portable\BasicWorkspace.vbproj" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Update="My Project\Resources.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

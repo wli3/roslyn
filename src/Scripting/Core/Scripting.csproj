@@ -41,6 +41,7 @@
     <PackageReference Include="System.Runtime.InteropServices" Version="$(SystemRuntimeInteropServicesVersion)" />
     <PackageReference Include="System.Threading" Version="$(SystemThreadingVersion)" />
     <PackageReference Include="System.Threading.Tasks" Version="$(SystemThreadingTasksVersion)" />
+    <PackageReference Include="XliffTasks" Version="$(XliffTasksVersion)" PrivateAssets="All" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\..\Compilers\Core\Portable\FileSystem\RelativePathResolver.cs">

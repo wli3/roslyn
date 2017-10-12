@@ -18,9 +18,11 @@
     <AssemblyVersionAttribute Include="System.Reflection.AssemblyFileVersionAttribute">
       <_Parameter1>$(BuildVersion)</_Parameter1>
     </AssemblyVersionAttribute>
+    <!-- Walkaround for alternative of ALINK due to AL1053
     <AssemblyVersionAttribute Include="System.Reflection.AssemblyInformationalVersionAttribute">
       <_Parameter1>$(NuGetPerBuildPreReleaseVersion). Commit Hash: $(GitHeadSha)</_Parameter1>
     </AssemblyVersionAttribute>
+    -->
   </ItemGroup>
 
   <PropertyGroup>

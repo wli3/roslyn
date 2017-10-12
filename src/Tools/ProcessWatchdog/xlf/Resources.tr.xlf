@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="tr" original="../Resources.resx">
+    <body>
+      <trans-unit id="ApplicationName">
+        <source>ProcessWatchdog</source>
+        <target state="new">ProcessWatchdog</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="Banner">
+        <source>{0} version {1}</source>
+        <target state="new">{0} version {1}</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorCannotTakeScreenshotNoConsoleSession">
+        <source>Could not take screenshot for process {0}, because this process does not have a UI.</source>
+        <target state="new">Could not take screenshot for process {0}, because this process does not have a UI.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorCannotTakeScreenshotUnexpectedError">
+        <source>Could not take screenshot for process {0}.</source>
+        <target state="new">Could not take screenshot for process {0}.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorFormat">
+        <source>Error {0}: {1}</source>
+        <target state="new">Error {0}: {1}</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorInvalidPollingInterval">
+        <source>The value {0} is not a valid polling interval. Please specify the polling interval as a positive number of milliseconds.</source>
+        <target state="new">The value {0} is not a valid polling interval. Please specify the polling interval as a positive number of milliseconds.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorInvalidTimeLimit">
+        <source>The value {0} is not a valid time limit. Please specify the time limit as a positive number of seconds.</source>
+        <target state="new">The value {0} is not a valid time limit. Please specify the time limit as a positive number of seconds.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorProcDumpNotFound">
+        <source>The procdump executable {0} was not found.</source>
+        <target state="new">The procdump executable {0} was not found.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ErrorProcessTimedOut">
+        <source>The process {0} ({1}) or one of its descendants exceeded the time limit of {2} seconds. This process and all its descendants will be terminated.</source>
+        <target state="new">The process {0} ({1}) or one of its descendants exceeded the time limit of {2} seconds. This process and all its descendants will be terminated.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="InfoCreatedOutputFolder">
+        <source>Created output folder {0}.</source>
+        <target state="new">Created output folder {0}.</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="InfoSavedScreenshot">
+        <source>Saving screenshot to file {0}...</source>
+        <target state="new">Saving screenshot to file {0}...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="InfoTerminatingProcess">
+        <source>Terminating process {0} and saving crash dump to file {1}...</source>
+        <target state="new">Terminating process {0} and saving crash dump to file {1}...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="ProcessExited">
+        <source>The process {0} exited successfully after {1}.</source>
+        <target state="new">The process {0} exited successfully after {1}.</target>
+        <note />
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

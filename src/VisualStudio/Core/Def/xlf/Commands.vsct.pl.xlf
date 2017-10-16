@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="pl" original="../Commands.vsct">
+    <body>
+      <trans-unit id="guidCSharpGrpIdcmdidContextOrganizeRemoveAndSort|ButtonText">
+        <source>Remove &amp;and Sort</source>
+        <target state="new">Remove &amp;and Sort</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidCSharpGrpIdcmdidContextOrganizeRemoveAndSort|LocCanonicalName">
+        <source>RemoveAndSort</source>
+        <target state="new">RemoveAndSort</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidCSharpGrpIdcmdidCSharpOrganizeRemoveAndSort|ButtonText">
+        <source>Remove &amp;and Sort</source>
+        <target state="new">Remove &amp;and Sort</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidCSharpGrpIdcmdidCSharpOrganizeRemoveAndSort|LocCanonicalName">
+        <source>RemoveAndSort</source>
+        <target state="new">RemoveAndSort</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidProjectContextAddAnalyzer|ButtonText">
+        <source>&amp;Analyzer...</source>
+        <target state="new">&amp;Analyzer...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidProjectContextAddAnalyzer|LocCanonicalName">
+        <source>AddAnalyzer</source>
+        <target state="new">AddAnalyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidProjectAddAnalyzer|ButtonText">
+        <source>Add &amp;Analyzer...</source>
+        <target state="new">Add &amp;Analyzer...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidProjectAddAnalyzer|LocCanonicalName">
+        <source>AddAnalyzer</source>
+        <target state="new">AddAnalyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidReferencesContextAddAnalyzer|ButtonText">
+        <source>Add &amp;Analyzer...</source>
+        <target state="new">Add &amp;Analyzer...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidReferencesContextAddAnalyzer|LocCanonicalName">
+        <source>AddAnalyzer</source>
+        <target state="new">AddAnalyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddAnalyzer|ButtonText">
+        <source>Add &amp;Analyzer...</source>
+        <target state="new">Add &amp;Analyzer...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddAnalyzer|LocCanonicalName">
+        <source>AddAnalyzer</source>
+        <target state="new">AddAnalyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidRemoveAnalyzer|ButtonText">
+        <source>&amp;Remove</source>
+        <target state="new">&amp;Remove</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidRemoveAnalyzer|LocCanonicalName">
+        <source>RemoveAnalyzer</source>
+        <target state="new">RemoveAnalyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidRemoveAnalyzer|CommandName">
+        <source>RemoveAnalyzer</source>
+        <target state="new">RemoveAnalyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidOpenRuleSet|ButtonText">
+        <source>&amp;Open Active Rule Set</source>
+        <target state="new">&amp;Open Active Rule Set</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidOpenRuleSet|LocCanonicalName">
+        <source>OpenActiveRuleSet</source>
+        <target state="new">OpenActiveRuleSet</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidOpenRuleSet|CommandName">
+        <source>OpenActiveRuleSet</source>
+        <target state="new">OpenActiveRuleSet</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityDefault|ButtonText">
+        <source>&amp;Default</source>
+        <target state="new">&amp;Default</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityDefault|LocCanonicalName">
+        <source>Default</source>
+        <target state="new">Default</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityDefault|CommandName">
+        <source>SetSeverityDefault</source>
+        <target state="new">SetSeverityDefault</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityError|ButtonText">
+        <source>&amp;Error</source>
+        <target state="new">&amp;Error</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityError|LocCanonicalName">
+        <source>Error</source>
+        <target state="new">Error</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityError|CommandName">
+        <source>SetSeverityError</source>
+        <target state="new">SetSeverityError</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityWarning|ButtonText">
+        <source>&amp;Warning</source>
+        <target state="new">&amp;Warning</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityWarning|LocCanonicalName">
+        <source>Warning</source>
+        <target state="new">Warning</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityWarning|CommandName">
+        <source>SetSeverityWarning</source>
+        <target state="new">SetSeverityWarning</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityInfo|ButtonText">
+        <source>&amp;Info</source>
+        <target state="new">&amp;Info</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityInfo|LocCanonicalName">
+        <source>Info</source>
+        <target state="new">Info</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityInfo|CommandName">
+        <source>SetSeverityInfo</source>
+        <target state="new">SetSeverityInfo</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityHidden|ButtonText">
+        <source>&amp;Hidden</source>
+        <target state="new">&amp;Hidden</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityHidden|LocCanonicalName">
+        <source>Hidden</source>
+        <target state="new">Hidden</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityHidden|CommandName">
+        <source>SetSeverityHidden</source>
+        <target state="new">SetSeverityHidden</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityNone|ButtonText">
+        <source>&amp;None</source>
+        <target state="new">&amp;None</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityNone|LocCanonicalName">
+        <source>None</source>
+        <target state="new">None</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeverityNone|CommandName">
+        <source>SetSeverityNone</source>
+        <target state="new">SetSeverityNone</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidOpenDiagnosticHelpLink|ButtonText">
+        <source>&amp;View Help...</source>
+        <target state="new">&amp;View Help...</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidOpenDiagnosticHelpLink|LocCanonicalName">
+        <source>ViewHelp</source>
+        <target state="new">ViewHelp</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidOpenDiagnosticHelpLink|CommandName">
+        <source>ViewHelp</source>
+        <target state="new">ViewHelp</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetActiveRuleSet|ButtonText">
+        <source>&amp;Set as Active Rule Set</source>
+        <target state="new">&amp;Set as Active Rule Set</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetActiveRuleSet|LocCanonicalName">
+        <source>SetAsActiveRuleSet</source>
+        <target state="new">SetAsActiveRuleSet</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetActiveRuleSet|CommandName">
+        <source>SetAsActiveRuleSet</source>
+        <target state="new">SetAsActiveRuleSet</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidRemoveSuppressions|ButtonText">
+        <source>Remove&amp; Suppression(s)</source>
+        <target state="new">Remove&amp; Suppression(s)</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidRemoveSuppressions|LocCanonicalName">
+        <source>RemoveSuppressions</source>
+        <target state="new">RemoveSuppressions</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidRemoveSuppressions|CommandName">
+        <source>RemoveSuppressions</source>
+        <target state="new">RemoveSuppressions</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsInSource|ButtonText">
+        <source>In &amp;Source</source>
+        <target state="new">In &amp;Source</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsInSource|LocCanonicalName">
+        <source>AddSuppressionsInSource</source>
+        <target state="new">AddSuppressionsInSource</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsInSource|CommandName">
+        <source>AddSuppressionsInSource</source>
+        <target state="new">AddSuppressionsInSource</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsInSuppressionFile|ButtonText">
+        <source>In&amp; Suppression File</source>
+        <target state="new">In&amp; Suppression File</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsInSuppressionFile|LocCanonicalName">
+        <source>AddSuppressionsInSuppressionFile</source>
+        <target state="new">AddSuppressionsInSuppressionFile</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsInSuppressionFile|CommandName">
+        <source>AddSuppressionsInSuppressionFile</source>
+        <target state="new">AddSuppressionsInSuppressionFile</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidGoToImplementation|ButtonText">
+        <source>Go To Implementation</source>
+        <target state="new">Go To Implementation</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidGoToImplementation|LocCanonicalName">
+        <source>GoToImplementation</source>
+        <target state="new">GoToImplementation</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidGoToImplementation|CommandName">
+        <source>GoToImplementation</source>
+        <target state="new">GoToImplementation</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidCSharpInteractiveCommandSetcmdidResetInteractiveFromProject|ButtonText">
+        <source>Initialize Interactive with Project</source>
+        <target state="new">Initialize Interactive with Project</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidCSharpInteractiveCommandSetcmdidResetInteractiveFromProject|LocCanonicalName">
+        <source>ResetC#InteractiveFromProject</source>
+        <target state="new">ResetC#InteractiveFromProject</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidVisualBasicInteractiveCommandSetcmdidResetInteractiveFromProject|ButtonText">
+        <source>Reset Visual Basic Interactive from Project</source>
+        <target state="new">Reset Visual Basic Interactive from Project</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidVisualBasicInteractiveCommandSetcmdidResetInteractiveFromProject|LocCanonicalName">
+        <source>ResetVisualBasicInteractiveFromProject</source>
+        <target state="new">ResetVisualBasicInteractiveFromProject</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAnalyzerContextMenu|ButtonText">
+        <source>Analyzer</source>
+        <target state="new">Analyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAnalyzerContextMenu|LocCanonicalName">
+        <source>Analyzer</source>
+        <target state="new">Analyzer</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAnalyzerFolderContextMenu|ButtonText">
+        <source>Analyzers</source>
+        <target state="new">Analyzers</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAnalyzerFolderContextMenu|LocCanonicalName">
+        <source>Analyzers</source>
+        <target state="new">Analyzers</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidDiagnosticContextMenu|ButtonText">
+        <source>Diagnostic</source>
+        <target state="new">Diagnostic</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidDiagnosticContextMenu|LocCanonicalName">
+        <source>Diagnostic</source>
+        <target state="new">Diagnostic</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeveritySubMenu|ButtonText">
+        <source>Set Rule Set Severity</source>
+        <target state="new">Set Rule Set Severity</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeveritySubMenu|CommandName">
+        <source>Set Rule Set Severity</source>
+        <target state="new">Set Rule Set Severity</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidSetSeveritySubMenu|LocCanonicalName">
+        <source>Set Rule Set Severity</source>
+        <target state="new">Set Rule Set Severity</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsContextMenu|ButtonText">
+        <source>S&amp;uppress</source>
+        <target state="new">S&amp;uppress</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsContextMenu|LocCanonicalName">
+        <source>S&amp;uppress</source>
+        <target state="new">S&amp;uppress</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="guidRoslynGrpIdcmdidAddSuppressionsContextMenu|CommandName">
+        <source>S&amp;uppress</source>
+        <target state="new">S&amp;uppress</target>
+        <note />
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

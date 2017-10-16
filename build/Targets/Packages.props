@@ -109,7 +109,7 @@
     <MicrosoftVisualStudioShellInterop121DesignTimeVersion>12.1.30328</MicrosoftVisualStudioShellInterop121DesignTimeVersion>
     <MicrosoftVisualStudioShellInterop140DesignTimeVersion>14.3.25407</MicrosoftVisualStudioShellInterop140DesignTimeVersion>
     <MicrosoftVisualStudioShellInterop150DesignTimeVersion>15.0.26606-alpha</MicrosoftVisualStudioShellInterop150DesignTimeVersion>
-	<MicrosoftVisualStudioShellInterop153DesignTimeVersion>15.0.26606</MicrosoftVisualStudioShellInterop153DesignTimeVersion>
+    <MicrosoftVisualStudioShellInterop153DesignTimeVersion>15.0.26606</MicrosoftVisualStudioShellInterop153DesignTimeVersion>
     <MicrosoftVisualStudioShellInterop80Version>8.0.50727</MicrosoftVisualStudioShellInterop80Version>
     <MicrosoftVisualStudioShellInterop90Version>9.0.30729</MicrosoftVisualStudioShellInterop90Version>
     <MicrosoftVisualStudioTelemetryVersion>15.0.26606-alpha</MicrosoftVisualStudioTelemetryVersion>
@@ -228,6 +228,7 @@
     <VSSDKComponentModelHostVersion>12.0.4</VSSDKComponentModelHostVersion>
     <VsWebsiteInteropVersion>8.0.0.0-alpha</VsWebsiteInteropVersion>
     <vswhereVersion>1.0.71</vswhereVersion>
+    <XliffTasksVersion>0.2.0-beta-000053</XliffTasksVersion>
     <xunitVersion>2.2.0</xunitVersion>
     <xunitanalyzersVersion>0.5.0</xunitanalyzersVersion>
     <xunitassertVersion>2.2.0</xunitassertVersion>
